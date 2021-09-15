@@ -40,9 +40,9 @@ gulp
       <svg><use href="#arrow"></use></svg>
     </div>
   </div>
-  </div>
+</div>
 
-  <div class="galleryModal">
-    <!-- js will generate content here -->
-  </div>
+<div class="galleryModal">
+  <!-- js will generate content here -->
+</div>
 ```
