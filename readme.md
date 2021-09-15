@@ -4,7 +4,7 @@
 
 ## Live demo
 
-- [Demo](https://alexanderguminskii.github.io/js-gallery-slider/)
+- [Demo](https://alexanderguminskii.github.io/js-gallery-slider/index.html)
 
 ## Install dependencies
 ```bash
